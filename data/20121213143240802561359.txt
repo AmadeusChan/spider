@@ -1,0 +1,30 @@
+20121213143240802561359
+2012年12月14日 10:55:34　　清华新闻网
+
+   
+清华计算机系师生的论文被国际顶级期刊与重要会议录用
+
+
+　　
+清华新闻网12月14日电
+ 近日，清华大学计算机系副教授喻文健的论文《面向超大规模集成电路互连线三维电容提取的悬浮随机行走求解器RWCap》（RWCap: A floating random walk solver for 3-D capacitance extraction of VLSI interconnects）被集成电路计算机辅助设计领域的国际顶级期刊《IEEE集成电路与系统的计算机辅助设计汇刊》（IEEE Trans. Computer-Aided Design，简称TCAD）录用为长文。该文提出了处理多层介质的随机行走电容提取算法以及加速蒙特卡洛过程收敛的方差约减算法，在不影响准确度的前提下使计算速度至少提高300倍，基于该算法开发出程序包RWCap，为芯片级的准确互连电容提取建立了坚实的基础 。
+
+
+　　该系硕士生翟匡亚（导师：喻文健）的论文《面向超大规模集成电路互连电容提取的GPU友好悬浮随机行走算法》（GPU-Friendly Floating Random Walk Algorithm for Capacitance Extraction of VLSI Interconnects）被欧洲设计自动化与测试会议（ACM/IEEE Design, Automation  Test in Europe Conference，简称DATE）录用为长文。该文首次实现了基于GPU平台的并行随机行走电容提取算法，实验结果表明该算法比单线程CPU上运行的同等算法快20倍以上。
+
+
+　　供稿：计算机系 编辑：范 丽
+
+
+
+
+
+    
+
+ 
+            
+2012年12月14日 10:55:34　　清华新闻网
+
+          
+
+   

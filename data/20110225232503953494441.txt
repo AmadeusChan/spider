@@ -1,0 +1,19 @@
+20110225232503953494441
+2010年06月07日 08:03:58　　清华新闻网
+
+   
+计算机系博士生论文获得国际期刊IEEE T-CSVT年度最佳论文奖 
+　　【新闻中心讯】日前，清华大学计算机系博士生庞一作为第一作者发表的论文A Framework for Heuristic Scheduling for Parallel Processing on Multi-core Architecture - A Case Study with Multi-view Video Coding获得IEEE T-CSVT（Transactions on Circuits and Systems for Video Technology）2010年最佳论文奖。6月1日在巴黎举行的ISCAS（电路与系统国际会议）上颁发了这个奖项。这是多媒体技术领域最有影响的论文奖项之一，也是第一篇由国内高校独立完成的论文获得该奖项。
+　　论文提出了一种面向多核处理器体系结构的启发式调度算法，对于运算量大的应用算法能够十分准确的评估其动态调度性能，从而省去了繁琐的系统实现步骤。论文发表在该刊2009年第11期，指导教师为杨士强，副指导教师为温江涛。
+　　IEEE T-CSVT是视频与视觉信息技术处理领域的国际顶级期刊，2008年影响因子为2.951，所涉及领域涵盖图像处理与分析、图像与视频压缩、信号处理、视频检索、计算机视觉等方面。该刊每年从往年发表的250余篇论文中评选出一篇年度最佳论文。
+　　在ISCAS会上，计算机系教授杨士强还当选为IEEE电路与系统学会（CAS）可视信号处理与通信技术委员会委员（Visual Signal Processing and Communications,TC）。（供稿 计算机系 编辑 襄桦）
+
+    
+
+ 
+            
+2010年06月07日 08:03:58　　清华新闻网
+
+          
+
+   

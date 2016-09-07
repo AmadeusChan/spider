@@ -1,0 +1,18 @@
+20110225232255062548590
+2009年05月15日 12:24:18　　清华新闻网
+
+   
+清华电子系教师陈巍、曹志刚获Marconi Prize Paper Award（马可尼论文奖）
+　　【新闻中心讯】清华大学电子系教师陈巍讲师和曹志刚教授荣获2009 IEEE Marconi Prize Paper Award（马可尼论文奖），这是无线通信领域最重要的学术奖项之一，每年仅评出一项。这是Marconi Prize Paper Award（马可尼论文奖）第一次授予在中国及亚太区域工作的学者，该奖项2007和2008年度分别授予了普林斯顿大学和麻省理工学院的学者。
+　　陈巍和曹志刚于2008年8月在IEEE Trans. on Wireless Communications（IEEE无线通信汇刊）上发表的论文“A Unified Cross-Layer Framework for Resource Allocation in Cooperative Networks（合作网络中资源分配的统一跨层理论框架）”（Wei Chen, Lin, Dai, K. B. Letaief, and Zhigang Cao）提出了一种评估、优化和实现合作网络公平性和有效性的统一理论框架，可适用于各种协作通信算法和协议。依据成果质量、原创性、实用性和及时性等标准，经IEEE Communication Society（IEEE通信学会）和Signal Processing Society（信号处理学会）共同组织的多轮评审，该论文获得IEEE Trans. on Wireless Communications（IEEE无线通信汇刊）的2008年度最佳论文，作者获颁2009 Marconi Prize Paper Award（马可尼论文奖）。
+　　此项研究受到了自然科学基金和香港科研资助局联合基金的资助。论文的另外两位合作者分别是清华大学客座教授，无线通信讲席教授组成员，香港科技大学无线通信讲席教授K. B. Letaief博士，以及清华2003级博士毕业生，香港城市大学助理教授代琳博士。（供稿 电子系 编辑 襄桦）
+
+    
+
+ 
+            
+2009年05月15日 12:24:18　　清华新闻网
+
+          
+
+   

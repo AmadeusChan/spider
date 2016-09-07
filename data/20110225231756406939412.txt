@@ -1,0 +1,17 @@
+20110225231756406939412
+2006年07月06日 13:15:39　　清华新闻网
+
+   
+清华博士生获得IEEE国际会议竞赛第一名
+　　【新闻中心讯】近日，在美国旧金山举行的2006年IEEE国际电子商务技术年会（CEC 2006）上，清华计算机系博士生顾志峰、吴刚和硕士生李涛以及指导教师许斌获得该会议Web Service Challenge竞赛“Syntactic Composition”组的第一名，并在会上宣读了论文《SWSDS: Quick Web Service Discovery and Composition in SEWSIP》。
+　　CEC年会是IEEE学会中电子商务技术研究领域的标志性学术会议，其内容涵盖了电子商务技术领域的各个研究方向。Web Service Challenge是在Web服务研究领域的竞赛，各参赛队伍通过提交运行程序和学术论文进行比赛，主要评测各个参赛队伍在Web服务的发现与组装方面的效率。今年是第三届比赛，分为“Syntactic Composition”和“Semantic Composition”两组，清华为首次参赛。（计算机系 供稿 编辑 襄桦） 
+
+    
+
+ 
+            
+2006年07月06日 13:15:39　　清华新闻网
+
+          
+
+   

@@ -1,0 +1,111 @@
+20140530145536496166697
+2014年05月30日 14:55:36　　清华新闻网
+
+   
+刘静小组提出液态金属神经连接与修复技术引起国际广泛关注
+
+
+　　清华新闻网5月30日电
+ 近期，清华大学医学院刘静教授小组联合中科院理化技术研究所首次报道了一种全新原理的液态金属神经连接与修复技术，在国际上引起持续广泛的影响。
+
+
+　　相关成果自4月底公布于物理学预印本网站以来，已受到数十个国际知名的科学与新闻媒体如
+New Scientist 
+（新科学家）, 
+MIT Technology Review 
+（麻省理工科技评论）, 
+IEEE Spectrum 
+（科技纵览）,
+ Physics Today
+ （今日物理）, 
+Newsweek
+ （新闻周刊）, 
+Daily Mail 
+（每日邮报）,
+ Discovery 
+（探索频道）, 
+Geek 
+（极客）等的专题报道和评介。
+
+
+　　众所周知，神经网络遍布于人体全身，因而神经损伤与断裂在医学上极为普遍。据统计，有多达100种以上的因素均可造成神经破损。生理学上，神经再生是一个极为缓慢的过程，有时甚至需要长达数年的时间才能恢复切断神经末梢的互连。因此，尽管神经损伤一定程度上可通过某种手术或物理方式加以治疗，神经纤维一旦被彻底切断或破坏，唯一的希望只能是将这些分隔的末梢尽快连通。这是因为，神经信号一旦持续中断，患者对应的肌肉功能即会随之减退、萎缩，直至造成永久性的功能缺失乃至截瘫。当前，治疗周围神经损伤的金标准在于自体神经移植，但却受到供区神经来源不足、供区神经功能丧失，以及供区神经结构和尺寸不匹配等限制。因此，寻找合适的神经移植替代物长期以来成为神经修复领域中的重大挑战。近年来，显微外科和纳米材料学的发展为断裂神经修复带来了新希望，但仍受到诸如导通能力不足，神经功能恢复不畅等制约。
+
+
+　　迄今，临床医学上逐步得到广泛认同的是，如能将恢复期的肌肉神经信号持续高效地传达至目标，则将大大加速神经的修复过程并促成其保持原有功能。而神经功能主要是通过电信号的传输和响应来实现的。正是出于这一考虑，研究小组基于10余年来在液态金属材料学与生物医学工程领域的长期积累和实践，首次提出了具有突破性意义的液态金属神经连接与修复技术，旨在迅速建立切断神经之间的信号通路及生长空间，从而提高神经再生效率并降低肌肉功能丧失的风险。
+
+
+
+
+图为由液态金属构成的神经连接与修复导管示意图。
+
+
+
+
+图为借助液态金属或林格氏液连接的切断神经与正常神经的电响应信号对比。
+
+
+　　在此项题为
+Liquid Metal as Connecting or Functional Recovery Channel for the Transected Sciatic Nerve
+（液态金属作为连接或恢复切断坐骨神经功能的通道）（Jie Zhang, et al., arXiv:1404.5931）的论文中，研究小组首次证实了以液态金属作为高传导性神经信号通路的可行性。通过建立牛蛙腓肠肌模型，采用液态金属连接剪断的神经组织，借助微弱电刺激试验探明了液态金属神经传导的优势。结果表明，利用液态金属连接的神经模型能很好的传递刺激信号，与剪断前的正常神经组织在信号传导方面具有高度的一致性和保真度，显著优于传统的林格氏液。与此同时，由于液态金属在X射线下具有很强的显影性，因而在完成神经修复之后很容易通过注射器取出体外，从而避免了复杂的二次手术。这一方法为神经连接与修复开辟了全新方向。国际上诸多科学媒体纷纷对此加以评介，认为是令人震惊的医学突破（Most Amazing Medical Breakthroughs）。
+
+
+　　长期以来，该小组与中科院理化所低温生物医学实验室合作，致力于推进室温液态金属这一新兴功能材料在电子信息、能源和医疗健康技术等领域的应用，取得一批开拓性成果。此项探索正是实验室密切结合临床医学中的重大需求所提出，刷新了人们对神经连接与修复问题的认识，对于今后该领域的研究和应用具有重要的启示意义。清华大学医学院2012级博士研究生张洁和博士后盛磊为该论文的第一作者，文章的通讯作者为刘静教授。
+
+
+ 相关链接：
+
+
+　　论文链接：
+http://arxiv.org/abs/1404.5931
+
+
+　　视频链接：
+http://video.sina.com.cn/p/news/v/2014-05-13/000663868067.html
+
+
+　　新闻链接：
+
+
+　　New Scientist：
+http://www.newscientist.com/article/mg22229682.800-terminatorstyle-liquid-metal-connects-severed-nerves.html
+
+
+　　MIT Technology Review：
+http://www.technologyreview.com/view/526946/liquid-metal-used-to-reconnect-severed-nerves
+
+
+　　IEEE SPECTRUM：
+http://spectrum.ieee.org/tech-talk/biomedical/bionics/liquid-metal-reconnects-severed-nerves-in-frogs
+
+
+　　Physics Today：
+http://scitation.aip.org/content/aip/magazine/physicstoday/news/news-picks/liquid-metal-used-to-reconnect-severed-nerves-from-bullfrogs-a-news-pick-post
+
+
+　　Newsweek：
+http://www.newsweek.com/2014/05/30/full-metal-therapy-251688.html
+
+
+　　Daily Mail：
+http://www.dailymail.co.uk/sciencetech/article-2615762/Terminator-style-LIQUID-METAL-used-reconnect-severed-nerves-animals.html
+
+
+　　Discovery：
+http://news.discovery.com/tech/biotechnology/liquid-metal-transmits-nerve-signals-in-frog-legs-140429.htm
+
+
+　　Geek：
+http://www.geek.com/science/neuro-conductive-metal-liquid-lets-researchers-reconnect-severed-nerves-1592448/
+
+
+供稿：医学院 编辑：襄桦
+
+    
+
+ 
+            
+2014年05月30日 14:55:36　　清华新闻网
+
+          
+
+   

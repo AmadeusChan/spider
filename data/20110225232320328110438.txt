@@ -1,0 +1,19 @@
+20110225232320328110438
+2009年08月27日 14:47:08　　清华新闻网
+
+   
+清华校友王敏获ACM SIGMOD十年最佳论文奖
+　　【新闻中心讯】近日清华大学校友王敏荣获2009年度ACM SIGMOD十年最佳论文奖（ACM SIGMOD 2009 Test of Time Award）。该奖是数据库研究领域的著名大奖（SIGMOD是数据库与数据管理最顶级的学术会议），专门授予过去10年间发表于SIGMOD会议上、且具有重大影响的论文。王敏的获奖论文题目为“Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets”，是她在1999年与在杜克大学读博士期间的导师Jeffrey Vitter共同发表的论文。
+　　王敏，女，1964年7月生，天津人。1983年考入清华计算机系，1988年获学士学位，1990年获硕士学位。王敏在取得美国杜克大学（Duke University）的计算机科学博士学位后，于1999年进入IBM沃森研究中心（IBM Thomas J. Watson Research Center）工作，现为统一数据分析部主任。她在数据库系统及信息处理方面的研究卓有成效。2007年曾获IBM杰出技术成就奖（Outstanding Technical Achievement Award）。2008年，在第27次概念建模国际会议上（ER 2008），获25年最佳论文奖（DKE 25Year Award）。
+　　
+来源：清华校友网 2009-8-25
+
+    
+
+ 
+            
+2009年08月27日 14:47:08　　清华新闻网
+
+          
+
+   

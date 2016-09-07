@@ -1,0 +1,34 @@
+20110831141043938333715
+2011年08月31日 14:10:43　　清华新闻网
+
+   
+计算机系研究生的论文被IEEE/ACM ICCAD2011录用
+
+
+　
+　清华新闻网8月31日电
+ 日前，清华大学计算机系博士生杨建磊（导师：蔡懿慈）的论文《基于泊松求解预条件的供电网络快速分析方法》（Fast Poisson Solver Preconditioned Method for Robust Power Grid Analysis）被IEEE/ACM计算机辅助设计国际会议（The International Conference on Computer-Aided Design，ICCAD 2011）录用为会议报告长文。
+
+
+　　论文研究集成电路片上供电网络仿真方法，提出了一种快速的泊松求解作为预条件的共轭梯度算法，比现有的基于乔莱斯基分解的共轭梯度法，在求解精度相同的情况下具有20倍以上的加速。
+
+
+　　同时，杨建磊与硕士生李佐渭（导师：周强）合作的论文《一个线性的供电网络求解器》（PowerRush: A Linear Simulator for Power Grid）被录用为专题论文。
+
+
+　 IEEE/ACM ICCAD是电子设计自动化（EDA）领域的顶级国际会议。此次会议将于今年11月在美国加利福尼亚州圣何塞召开。
+
+
+
+
+供稿：计算机系　编辑：襄 桦
+
+    
+
+ 
+            
+2011年08月31日 14:10:43　　清华新闻网
+
+          
+
+   

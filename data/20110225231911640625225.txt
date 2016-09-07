@@ -1,0 +1,17 @@
+20110225231911640625225
+2007年06月28日 12:22:50　　清华新闻网
+
+   
+ 清华学生获CVPR2007最佳学生论文奖
+【新闻中心讯】在6月22日结束的“国际计算机视觉与模式识别学术会议”（IEEE Conf. on Computer Vision and Pattern Recognition (CVPR2007), June 17-22, 2007）上，清华大学计算机系硕士生李源获得最佳学生论文奖（Best student paper prize），这是中国国内学生首次获得这一奖项。
+　　CVPR是计算机视觉领域的国际最高水平会议之一，本届oral presentation（口头报告）接受率仅为4.8％。李源同学获奖的论文名称是：“Tracking in Low Frame Rate Video: A Cascade Particle Filter with Discriminative Observers of Different Lifespans（低帧率视频中的跟踪：用瀑布型粒子滤波器融合不同生存期的区分性模型）”。（计算机系 刘宁 供稿 襄桦 编辑）
+
+    
+
+ 
+            
+2007年06月28日 12:22:50　　清华新闻网
+
+          
+
+   

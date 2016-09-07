@@ -2,9 +2,13 @@ import urllib2
 import re
 import time
 
-def save_news(url):
-	response = urllib2.urlopen(url)
-	html = response.read()
+def save_news(url,html):
+#try:
+#		response = urllib2.urlopen(url)
+#	except urllib2.URLError, e:
+#		print e.reason
+#		return "ERROR"
+#	html = response.read()
 
 	# to get ID
 	id_pattern = re.compile(r'thunews/.*?/.*?/.*?/')
@@ -35,7 +39,7 @@ def save_news(url):
 		actual_title = re.sub(re.compile(r'<.*?>'),'',title)
 		if len(actual_title):
 			#print 'TITLE:', actual_title
-			f.write(actual_title)
+#f.write(actual_title)
 			break
 		print '\n'
 	
@@ -59,6 +63,9 @@ def get_urls(url_):
 	try:
 		response = urllib2.urlopen(request)
 		#time.sleep(0.05)
+	except urllib2.HTTPError, e:
+		print e.code
+		return []
 	except urllib2.URLError, e:
 		print e.reason
 		return []
@@ -80,15 +87,21 @@ cnt = 0
 f=file("urls.txt","w")
 
 while (True):
-	print 'size of queue:', url_queue.qsize(), "    size of set:", len(seen)
 	if url_queue.empty() == False:
 		current_url = url_queue.get()
 
 		news_pages = re.findall(re.compile(r'.*?_.html'),current_url);
 		for news_page in news_pages:
+			try:
+				response = urllib2.urlopen(news_page)
+				html = response.read()
+			except urllib2.URLError, e:
+				print e.reason
+				continue
+
 			cnt = cnt + 1
-			f.write(news_page+' '+save_news(news_page)+'\n')
-			print cnt, ':', news_page
+			f.write(news_page+' '+save_news(news_page,html)+'\n')
+			print cnt, ':', news_page, 'size of queue:', url_queue.qsize(), "    size of set:", len(seen)
 
 		#cnt = cnt + 1
 		#f.write(current_url+'\n')
